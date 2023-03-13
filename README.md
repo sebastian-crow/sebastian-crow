@@ -29,7 +29,7 @@ Currently building stronger typed APIs, designing UI/UX interfaces and participa
 #### Interests: 
 - **O**pen**S**ource Contribution
 - **Design** [ UI/UX Design, Web Design, Pixel Art, Conceptual Art, Minimalism ] 
-- **Develop** [ Web Development, Desktop Development, Mobile Development, Scripting, Linux ].
+- **Develop** [ Web Development, API, Desktop Development, Mobile Development, Scripting, Linux ].
 </samp>
       
 
